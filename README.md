@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About me :mortar_board:
-#I’m Mohamed Ebrahim,I'm native android developer (java & kotlin). Who Loves Programming. I’d love to combine my passion in programming for building apps I recently developed an android app using kotlin that lets users save reminder with interested places using geofencing and firebase auth and it's my final project on Udacity advanced kotlin nanodegree 
+I’m Mohamed Ebrahim,I'm native android developer (java & kotlin). Who Loves Programming. I’d love to combine my passion in programming for building apps I recently developed an android app using kotlin that lets users save reminder with interested places using geofencing and firebase auth and it's my final project on Udacity advanced kotlin nanodegree 
 program, now I'm looking for new role or internship in android development to develop my skills to continue build useful apps for people
 
 ### **⚒️ Languages and Tools:**  
