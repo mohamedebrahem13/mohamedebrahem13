@@ -16,6 +16,8 @@
 - 💬 Ask me anything about android development.
 - 📫 How to reach me:   
   - [LinkedIn]((https://www.linkedin.com/in/mohamed-ebrahaim)  
+  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mohamedebrahem1447@gmail.com)](mohamedebrahem1447@gmail.com)
+
 
 ![My github Stats](https://github-readme-stats.vercel.app/api?username=mohamedebrahem13&count_private=true&show_icons=true&theme=onedark)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedebrahem13&count_private=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
