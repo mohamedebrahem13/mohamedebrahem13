@@ -15,7 +15,7 @@
 
 - 💬 Ask me anything about android development.
 - 📫 How to reach me:   
-  - [LinkedIn]((https://www.linkedin.com/in/mohamed-ebrahaim)  
+  - [![LinkedIn Badge]((https://www.linkedin.com/in/mohamed-ebrahaim)] 
   - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedebrahem1447@gmail.com)](mailto:mohamedebrahem1447@gmail.com)
 
 
