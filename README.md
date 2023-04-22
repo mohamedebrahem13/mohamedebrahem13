@@ -2,6 +2,17 @@
 
 # I'm native android developer (java & kotlin).
 
+### **⚒️ Languages and Tools:**  
+
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 - 💬 Ask me anything about android development.
 - 📫 How to reach me:   
   - [LinkedIn]((https://www.linkedin.com/in/mohamed-ebrahaim)  
