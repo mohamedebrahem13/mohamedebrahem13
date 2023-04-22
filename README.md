@@ -1,24 +1,10 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+### Hi there 👋
 
-<h2> Hey there! I'm Mohamed Ebrahem.</h2>
+# I'm native android developer (java & kotlin).
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- 💬 Ask me anything about android development.
+- 📫 How to reach me:   
+  - [LinkedIn](www.linkedin.com/in/mohamed-ebrahaim)  
 
-- 🤔 &nbsp; Android Developer .
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="www.linkedin.com/in/
-mohamed-ebrahaim"><img alt="LinkedIn"></a>
-</p>
+![My github Stats](https://github-readme-stats.vercel.app/api?username=mohamedebrahem13&count_private=true&show_icons=true&theme=onedark)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedebrahem13&count_private=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
