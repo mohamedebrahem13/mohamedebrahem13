@@ -2,8 +2,9 @@
 
 
 ## About me :mortar_board:
-I'm native android developer (java & kotlin). Who Loves Programming. I’d love to combine my passion in programming for building apps I recently developed an android app using kotlin that lets users save reminder with interested places using geofencing and firebase auth and it's my final project on Udacity advanced kotlin nanodegree 
-program, now I'm looking for new role or internship in android development to develop my skills to continue build useful apps for people .
+I'm native android developer (java & kotlin). Who Loves Programming. I’d love to combine my passion in programming for building apps I recently developed an android app using kotlin that lets users to get data from api https://api.coinpaprika.com thats return list of crypto coin and get the Coin Detail by id Techniques Used in this app
+clean architecture mvvm using dagger hilt for ndency injection and retrofit to get the data from api and kotlin coutines to get the list of coin in background thread and using kotlin flow to retry call if it faile and using data bnding to bind data and views to and from xml 
+, now I'm looking for new role or internship in android development to develop my skills to continue build useful apps for people .
 
 ### **⚒️ Languages and Tools:**  
 
