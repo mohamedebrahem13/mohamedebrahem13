@@ -5,10 +5,10 @@ I'm a native Android developer (Java & Kotlin) who loves programming. I’d love
 
 ### **⚒️ Languages and Tools:**  
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&logoWidth=20&logoHeight=20&borderRadius=50)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&logoWidth=20&logoHeight=20&borderRadius=50)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&logoWidth=20&logoHeight=20&borderRadius=50)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&logoWidth=20&logoHeight=20&borderRadius=50)
 - 💬 Ask me anything about Android development.
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/mohamed-ebrahaim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
