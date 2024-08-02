@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋 , I'm Mohamed Ebrahem <br/></h2> 
+<h2 align="center"> Hi 👋 , I'm Mohamed Ebrahim <br/></h2> 
 
 ## About me :mortar_board:
 I'm a native Android developer (Java & Kotlin) who loves programming. I’d love to combine my passion for programming to build apps. I'm currently looking for a new role or internship in Android development to develop my skills and continue building useful apps for people.
