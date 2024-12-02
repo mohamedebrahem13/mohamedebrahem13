@@ -1,8 +1,7 @@
 <h2 align="center"> Hi 👋 , I'm Mohamed Ebrahim <br/></h2> 
 
 ## About me :mortar_board:
-I'm a native Android developer (Java & Kotlin) who loves programming. I’d love to combine my passion for programming to build apps. I'm currently looking for a new role or internship in Android development to develop my skills and continue building useful apps for people.
-
+I’m an Android Developer with two years of experience, specializing in Kotlin, Java, and modern Android frameworks like Jetpack Compose. My expertise spans developing comprehensive Point of Sale (POS) systems, Bluetooth applications, and other mobile solutions that emphasize performance and security. I am proficient in Android testing, using modern libraries like Kotest and UI Automator to ensure quality and reliability across applications. With a strong foundation in dependency injection using Dagger Hilt, architectural patterns like MVI and MVVM, and Agile practices, I’m committed to delivering high-quality, scalable, and maintainable applications that meet user needs.
 ### **⚒️ Languages and Tools:**  
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&logoWidth=20&logoHeight=20&borderRadius=50)
