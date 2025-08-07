@@ -15,7 +15,6 @@
 - ⚡ Fun fact: I can debug Android apps faster than I drink coffee ☕
 
 ---
-
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-ebrahim13/ " target="_blank">
