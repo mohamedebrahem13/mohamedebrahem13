@@ -4,8 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+Expert;Clean+Architecture+Enthusiast;Firebase+Lover;Open+Source+Contributor&center=true&width=500&height=45" />
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900" />
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900" />
+</p>
 - 🌱 I’m currently learning **kmp**
 - 👯 I’m looking to collaborate on **open-source Android projects**
 - 💬 Ask me about **Kotlin, MVVM, Firebase, Clean Architecture**
