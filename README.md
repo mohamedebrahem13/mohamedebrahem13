@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+Expert;Clean+Architecture+Enthusiast;Firebase+Lover;Open+Source+Contributor&center=true&width=500&height=45" />
 </p>
 <p align="center">
-  <img src="https://github.com/mohamedebrahem13/mohamedebrahem13/blob/main/assets/AndroidAnimation.gif?raw=true" width="300" alt="Android Animation" />
+  <img src="https://github.com/mohamedebrahem13/mohamedebrahem13/blob/main/assets/AndroidAnimation.gif?raw=true" width="200" alt="Android Animation" />
 </p>
 
 - 🌱 I’m currently learning **kmp**
