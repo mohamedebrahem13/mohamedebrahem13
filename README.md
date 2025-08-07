@@ -7,8 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Find My Pet App**
-- 🌱 I’m currently learning **Jetpack Compose and Clean Code Practices**
+- 🌱 I’m currently learning **kmp**
 - 👯 I’m looking to collaborate on **open-source Android projects**
 - 💬 Ask me about **Kotlin, MVVM, Firebase, Clean Architecture**
 - 📫 How to reach me: **mohamedebrahem1447@gmail.com**
