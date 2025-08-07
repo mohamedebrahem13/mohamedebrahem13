@@ -7,7 +7,7 @@
 <p align="center">
 <img 
   src="https://github.com/mohamedebrahem13/mohamedebrahem13/blob/main/assets/AndroidAnimation.gif?raw=true" 
-  width="600" 
+  width="2000" 
   alt="Android Animation" />
 </p>
 
