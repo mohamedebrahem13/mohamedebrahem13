@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **kmp**
 - 👯 I’m looking to collaborate on **open-source Android projects**
-💬 Feel free to ask me about Kotlin, Jetpack Compose, MVVM, MVI, Bluetooth, Firebase, or Clean Architecture
+- 💬 Feel free to ask me about Kotlin, Jetpack Compose, MVVM, MVI, Bluetooth, Firebase, or Clean Architecture
 - 📫 How to reach me: **mohamedebrahem1447@gmail.com**
 - ⚡ Fun fact: I can debug Android apps faster than I drink coffee ☕
 
