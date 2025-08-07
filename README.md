@@ -4,11 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+Expert;Clean+Architecture+Enthusiast;Firebase+Lover;Open+Source+Contributor&center=true&width=500&height=45" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2b76184d-f453-40e7-adbe-f45cccbcfb47" alt="Android Jetpack Animation" width="300" />
-</p>
-
 ---
 
 - 🌱 I’m currently learning **kmp**
