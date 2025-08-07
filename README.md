@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://github.com/mohamedebrahem13/mohamedebrahem13/blob/main/assets/AndroidAnimation.gif?raw=true" width="300" alt="Android Animation" />
 </p>
----
 
 - 🌱 I’m currently learning **kmp**
 - 👯 I’m looking to collaborate on **open-source Android projects**
