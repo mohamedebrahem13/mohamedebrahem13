@@ -18,7 +18,7 @@
 
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ebrahaim/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-ebrahim13/ " target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/mohamedebrahem13" target="_blank">
