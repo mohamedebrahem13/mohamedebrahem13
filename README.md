@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ebrahim</h1>
 <h3 align="center">A passionate Android Developer from Egypt</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+Expert;Clean+Architecture+Enthusiast;Programming+Lover;Open+Source+Contributor&center=true&width=500&height=70" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+Expert;Clean+Architecture+Enthusiast;Programming+Lover;Open+Source+Contributor&center=true&width=700&height=45" />
 </p>
 
 - 🌱 I’m currently learning **kmp**
