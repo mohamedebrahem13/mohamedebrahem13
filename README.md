@@ -46,5 +46,10 @@
 </p>
 
 ---
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedebrahem13&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
 
+---
 <h3 align="center">🔥 Keep pushing forward! 🚀</h3>
