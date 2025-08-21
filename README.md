@@ -12,16 +12,14 @@
 ---
 <h3 align="center">📱 Connect with me:</h3>
 <p align="center">
-  <a href="mailto:mohamedebrahem1447@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Mohamed%20Ebrahim-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&borderRadius=50" />
+  <a href="mailto:mohamedebrahem1447@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/mohamed-ebrahim13/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ebrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />
+  <a href="https://www.linkedin.com/in/mohamed-ebrahim13/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-  
-  <a href="https://github.com/mohamedebrahem13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mohamedebrahem13-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=50" />
+  <a href="https://github.com/mohamedebrahem13">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
 </p>
 
