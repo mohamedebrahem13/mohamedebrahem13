@@ -13,13 +13,13 @@
 <h3 align="center">📱 Connect with me:</h3>
 <p align="center">
   <a href="mailto:mohamedebrahem1447@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="70" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="70" style="margin: 0 50px;" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-ebrahim13/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="70" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="70" style="margin: 0 50px;" />
   </a>
   <a href="https://github.com/mohamedebrahem13">
-    <img src="https://skillicons.dev/icons?i=github" width="70" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=github" width="70" style="margin: 0 50px;" />
   </a>
 </p>
 
