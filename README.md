@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **open-source Android projects**
 - 💬 Feel free to ask me about Kotlin, Jetpack Compose, MVVM, MVI, Bluetooth, Firebase, or Clean Architecture
 - ⚡ Fun fact: I can debug Android apps faster than I drink coffee ☕
-
----
 <h3 align="center">📱 Connect with me:</h3>
 <p align="center">
   <a href="mailto:mohamedebrahem1447@gmail.com">
