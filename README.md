@@ -32,6 +32,12 @@
 
 ---
 
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedebrahem13&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
+
+---
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedebrahem13&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
@@ -43,12 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedebrahem13&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
----
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedebrahem13&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ---
