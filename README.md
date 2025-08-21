@@ -10,29 +10,21 @@
 - ⚡ Fun fact: I can debug Android apps faster than I drink coffee ☕
 
 ---
-<h1 align="center">
-  Hi 👋, I'm 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&lines=Mohamed+Ebrahim" alt="Animated Name"/>
-</h1>
-
-<h3 align="center">A passionate Android Developer from Egypt</h3>
-
----
-
 <h3 align="center">📱 Connect with me:</h3>
 <p align="center">
   <a href="mailto:mohamedebrahem1447@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Mohamed%20Ebrahim-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&borderRadius=50" />
+    <img align="center" src="https://img.shields.io/badge/Email-Mohamed%20Ebrahim-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://www.linkedin.com/in/mohamed-ebrahim13/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ebrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ebrahim-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="https://github.com/mohamedebrahem13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mohamedebrahem13-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=50" />
+    <img align="center" src="https://img.shields.io/badge/GitHub-mohamedebrahem13-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
 
 <h3 align="left">🛠 Languages and Tools:</h3>
