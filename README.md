@@ -7,13 +7,16 @@
 - 🌱 I’m currently learning **kmp**
 - 👯 I’m looking to collaborate on **open-source Android projects**
 - 💬 Feel free to ask me about Kotlin, Jetpack Compose, MVVM, MVI, Bluetooth, Firebase, or Clean Architecture
-- 📫 How to reach me: **mohamedebrahem1447@gmail.com**
 - ⚡ Fun fact: I can debug Android apps faster than I drink coffee ☕
 
 ---
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ebrahim13/ " target="_blank">
+  <a href="mailto:mohamedebrahem1447@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mohamed-ebrahim13/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   
