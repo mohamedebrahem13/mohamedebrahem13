@@ -4,10 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+Expert;Clean+Architecture+Enthusiast;Programming+Lover;Open+Source+Contributor&center=true&width=700&height=45" />
 </p>
 
-- 🌱 I’m currently learning **kmp**
-- 👯 I’m looking to collaborate on **open-source Android projects**
-- 💬 Feel free to ask me about Kotlin, Jetpack Compose, MVVM, MVI, Bluetooth, Firebase, or Clean Architecture
-- ⚡ Fun fact: I can debug Android apps faster than I drink coffee ☕
+I’m an Android Developer specializing in Kotlin, Java, and Jetpack Compose, with experience in POS systems, Bluetooth (BLE) apps, and scalable mobile solutions. Skilled in MVI/MVVM, Dagger Hilt, and CI/CD (GitHub Actions, Firebase App Distribution), I focus on building secure, high-performance applications.
+
+At The Chance, I optimized the CI/CD pipeline, cutting pull request build time from 23 minutes to 2 minutes, boosting team productivity. I also gained experience at POS Mission working on BLE-powered POS apps, and at SolutionPlus developing a platform for buying and selling visas.
+
+I hold the Udacity Advanced Android Nanodegree and earned the Top Graduate badge for outstanding performance.
   
 <h3 align="center">📱 Connect with me:</h3>
 <p align="center">
